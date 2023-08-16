@@ -15,7 +15,8 @@
 
 <h2>About Me</h2>
 
-<p align="center">Prior to server development, I was an undergraduate, studying electrical engineering, which eventually brought me to this field of expertise as I was working on the live interface component of our IoT Water Quality Monitoring System Thesis. Since then, I have been actively studying to become a backend developer; designing, and fabricating project after project, acquiring practical understanding of what it takes to develop servers, design APIs, manage databases, & unit testing</p>
+<p align="center">Prior to studying server development, I was an electrical engineering undergraduate working on the live interface component of our IoT-based Thesis. Since then, I have been actively studying to become a backend developer, designing and fabricating project after project, acquiring a practical understanding of what it takes to develop servers, design APIs, manage databases, and perform unit testing.
+</p>
 
 <hr>
 
