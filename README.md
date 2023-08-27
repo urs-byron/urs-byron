@@ -52,6 +52,9 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://img.shields.io/badge/%20%20-css-%23264de4?style=for-the-badge&logo=css3&logoColor=%23264de4&labelColor=white" target="blank"><img align="center" src="https://img.shields.io/badge/%20%20-css-%23264de4?style=for-the-badge&logo=css3&logoColor=%23264de4&labelColor=white"/></a>    
 
+<h3>Documentation</h3>
+<a href="https://img.shields.io/badge/-JSDoc-%23f0db4f?style=for-the-badge&logo=javascript&labelColor=%23323330" target="blank"><img align="center" src="https://img.shields.io/badge/-JSDoc-%23f0db4f?style=for-the-badge&logo=javascript&labelColor=%23323330"/></a>    
+
 <hr>
 
 <h2>Courses</h2>
