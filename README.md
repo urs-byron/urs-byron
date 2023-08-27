@@ -7,8 +7,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/byron-ursua-543542139/" target="blank"><img align="center" src="https://img.shields.io/badge/%20%20-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=%230077B5&labelColor=white"/></a> 
 &nbsp;&nbsp;&nbsp;
-<!-- <a href="https://www.linkedin.com/in/byron-ursua-543542139/" target="blank"><img align="center" src="https://img.shields.io/badge/%20%20-Indeed-%23003A9B?style=for-the-badge&logo=indeed&logoColor=%23003A9B&labelColor=white"/></a> 
-&nbsp;&nbsp;&nbsp; -->
+<a href="https://profile.indeed.com/p/byronu-4kfmv3g" target="blank"><img align="center" src="https://img.shields.io/badge/%20%20-Indeed-%23003A9B?style=for-the-badge&logo=indeed&logoColor=%23003A9B&labelColor=white"/></a> 
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:bmlursua@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/%20%20-GMail-%23EA4335?style=for-the-badge&logo=gmail&labelColor=white"/></a>
 &nbsp;&nbsp;&nbsp;
 </p>
@@ -70,5 +70,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urs-byron&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
 <Br>
 
-<h1>Thank You! 🤵 </h1>
-<Br>
+<hr>
+
+<h1 align="center">Thank You! 🤵 </h1>
