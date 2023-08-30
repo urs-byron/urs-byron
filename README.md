@@ -44,6 +44,9 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://img.shields.io/badge/%20%20-github-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white" target="blank"><img align="center" src="https://img.shields.io/badge/%20%20-github-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white"/></a>    
 
+<h3>CI/CD</h3>  
+<a href="https://img.shields.io/badge/-GitHub%20Actions-%232596be?style=for-the-badge&logo=githubactions&labelColor=white" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub%20Actions-%232596be?style=for-the-badge&logo=githubactions&labelColor=white"/></a>    
+
 <h3>Frontend</h3>
 <a href="https://img.shields.io/badge/%20%20-JavaScript-%23f0db4f?style=for-the-badge&logo=javascript&labelColor=%23323330" target="blank"><img align="center" src="https://img.shields.io/badge/%20%20-JavaScript-%23f0db4f?style=for-the-badge&logo=javascript&labelColor=%23323330"/></a> &nbsp;&nbsp;&nbsp;
 <a href="https://img.shields.io/badge/%20%20-TypeScript-%2367A3D9?style=for-the-badge&logo=typescript&labelColor=white" target="blank"><img align="center" src="https://img.shields.io/badge/%20%20-TypeScript-%2367A3D9?style=for-the-badge&logo=typescript&labelColor=white"/></a>    
