@@ -15,7 +15,7 @@
 
 <h2>About Me</h2>
 
-<p align="center">Prior to studying server development, I was an electrical engineering undergraduate working on the live interface component of our IoT-based Thesis. Since then, I have been actively studying to become a backend developer, designing and fabricating project after project, acquiring a practical understanding of what it takes to develop servers, design APIs, manage databases, and perform unit testing.
+<p align="center">Equipped with relevant skills in client & server development, database management, responsive components, web application security, testing, and documenting. Consistently delivering performant, tested, and documented programs
 </p>
 
 <hr>
