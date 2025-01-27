@@ -77,14 +77,6 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://img.shields.io/badge/%20%20-Jest-white?style=for-the-badge&logo=jest&labelColor=orangered" target="blank"><img align="center" src="https://img.shields.io/badge/%20%20-Jest-white?style=for-the-badge&logo=jest&labelColor=orangered"/></a>    
 &nbsp;&nbsp;&nbsp;
-
-<hr>
-
-<h2>Courses</h2>
-
-|[![](https://img.shields.io/badge/%20%20-Understanding%20TypeScript-%23007acc?style=for-the-badge&logo=typescript&labelColor=white)](https://www.udemy.com/course/understanding-typescript/)|[![](https://img.shields.io/badge/%20%20-NodeJS%3A%20The%20Complete%20Guide-%2342b883?style=for-the-badge&logo=nodedotjs&labelColor=white)](https://www.udemy.com/course/nodejs-the-complete-guide/)|[![](https://img.shields.io/badge/%20%20-OOP%20in%20JavaScript-%23f0db4f?style=for-the-badge&logo=javascript&labelColor=%23323330)](https://www.udemy.com/course/javascript-object-oriented-programming/)|
-|---|---|---|
-|[![](https://img.shields.io/badge/%20%20-Node%20JS%20Tutorial%20%26%20Projects-%2342b883?style=for-the-badge&logo=nodedotjs&labelColor=white)]([https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/))|[![](https://img.shields.io/badge/%20%20-JavaScript%20Tutorial%20%26%20Projects-%23f0db4f?style=for-the-badge&logo=javascript&labelColor=%23323330)](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/)|[![](https://img.shields.io/badge/%20%20-HTML%20%26%20CSS%20Tutorial%20%26%20Projects-%23f06529?style=for-the-badge&logo=html5&labelColor=white)](https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/)|
   
 <hr>
 
