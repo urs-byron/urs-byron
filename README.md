@@ -5,7 +5,7 @@
 <h1 align="center">I'm <a href="https://github.com/urs-byron">Byron<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/byron-ursua-543542139/" target="blank"><img align="center" src="https://img.shields.io/badge/%20%20-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=%230077B5&labelColor=white"/></a> 
+<a href="https://www.linkedin.com/in/byron-ursua-543542139/" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"/></a> 
 &nbsp;&nbsp;&nbsp;
 <a href="https://profile.indeed.com/p/byronu-4kfmv3g" target="blank"><img align="center" src="https://img.shields.io/badge/%20%20-Indeed-%23003A9B?style=for-the-badge&logo=indeed&logoColor=%23003A9B&labelColor=white"/></a> 
 &nbsp;&nbsp;&nbsp;
@@ -48,6 +48,8 @@
 <a href="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" target="blank"><img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/></a>  
 &nbsp;&nbsp;&nbsp;
 <a href="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" target="blank"><img align="center" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"/></a>  
+&nbsp;&nbsp;&nbsp;
+<a href="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" target="blank"><img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>  
 &nbsp;&nbsp;&nbsp;
 <a href="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" target="blank"><img align="center" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/></a>  
 
