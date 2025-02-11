@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">I'm <a href="https://github.com/urs-byron">Byron<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h2 align="center" text-decoration="none" target="blank"><a href="https://urs-byron.github.io">Visit my website!<a></h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/byron-ursua-543542139/" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"/></a> 
